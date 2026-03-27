@@ -54,7 +54,7 @@ body {
     transform: translateX(-50%); 
 }
 .card-header { padding: 40px 0 20px 0; border-bottom: 1px solid #222; }
-.card-logo { width: 120px; height: 120px; object-fit: contain; } /* Senin logo.png boyutları */
+.card-logo { width: 120px; height: 120px; object-fit: contain; } 
 .card-title { font-size: 1.5rem; font-weight: bold; margin: 15px 0 5px 0; color: #9a031e; }
 .card-desc { color: #888; font-size: 0.9rem; padding: 0 20px 20px 20px; }
 
