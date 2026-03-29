@@ -73,12 +73,12 @@ body{
 .faq-answer{display:none;color:rgba(255,255,255,0.8);margin-top:6px}
 .faq-answer.open{display:block}
 
-/* Open sources panel */
+
 .open-sources .list li{display:flex;justify-content:space-between;align-items:center;gap:10px}
 .open-sources .list li a{color:var(--text);text-decoration:none}
 .open-sources .muted{margin-bottom:10px}
 
-/* About page specific */
+
 .about-page{max-width:900px;margin:20px auto;padding:24px;background:linear-gradient(180deg, rgba(255,255,255,0.01), transparent);border-radius:12px}
 .about-grid{display:grid;grid-template-columns:1fr 320px;gap:18px}
 .about-side{background:var(--panel);padding:14px;border-radius:10px}
