@@ -19,4 +19,4 @@
 
 
 ### 👤 Developer
-**Chief Saeser** & **YukraZ** *Security Enthusiast*
+**itz0day** & **YukraZ** *Security Enthusiast*
